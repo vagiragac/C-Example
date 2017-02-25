@@ -1,0 +1,6 @@
+c:\users\veli\documents\visual studio 2015\Projects\14253001NYPODEV1\14253001NYPODEV1\bin\Debug\14253001NYPODEV1.exe.config
+c:\users\veli\documents\visual studio 2015\Projects\14253001NYPODEV1\14253001NYPODEV1\bin\Debug\14253001NYPODEV1.exe
+c:\users\veli\documents\visual studio 2015\Projects\14253001NYPODEV1\14253001NYPODEV1\bin\Debug\14253001NYPODEV1.pdb
+c:\users\veli\documents\visual studio 2015\Projects\14253001NYPODEV1\14253001NYPODEV1\obj\Debug\14253001NYPODEV1.exe
+c:\users\veli\documents\visual studio 2015\Projects\14253001NYPODEV1\14253001NYPODEV1\obj\Debug\14253001NYPODEV1.pdb
+C:\Users\veli\documents\visual studio 2015\Projects\14253001NYPODEV1\14253001NYPODEV1\obj\Debug\14253001NYPODEV1.csprojResolveAssemblyReference.cache
